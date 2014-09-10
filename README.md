@@ -1,4 +1,4 @@
 CLP
 ====
 
-common language parser
+Common Language Parser
