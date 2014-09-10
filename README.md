@@ -1,4 +1,4 @@
-CLPC
+CLP
 ====
 
-common language phraser and checker
+common language parser
